@@ -1,8 +1,5 @@
-/
-├── flaskapp.py         # Main Flask application file
-├── requirements.txt     # Python dependencies
-├── Procfile             # Specifies the command to run the application
-├── README.md            # Project documentation
-├── static/              # Static files (CSS, JavaScript, images)
-├── templates/           # HTML templates
-└── repository/          # Additional files (if applicable)
+likelihood-prediction-aircraft-incident-model/
+├── app.py
+├── model.py
+├── requirements.txt
+└── Procfile
